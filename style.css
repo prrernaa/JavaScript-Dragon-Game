@@ -46,7 +46,7 @@ body{
 .gameOver{
     position: relative;
     top:63px;
-    font-size: 53px;
+    font-size: 54px;
     text-align: center; 
     font-family: 'Ubuntu', sans-serif;
 }
